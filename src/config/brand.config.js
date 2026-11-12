@@ -1,0 +1,1 @@
+export const defaultBrand={logoText:"LA",colors:{primary:"#c8a45d",primaryStrong:"#b48d51",accent:"#111111",surface:"#ffffff",background:"#ffffff",text:"#111111",muted:"#616971"},fonts:{display:"Georgia, 'Times New Roman', serif",body:"Arial, sans-serif"},radius:"4px"};

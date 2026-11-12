@@ -1,0 +1,150 @@
+{
+  "project": {
+    "name": "Lino Alberto Pires de Castro",
+    "displayName": "Lino Alberto Pires de Castro | Advocacia",
+    "conversionAction": "WhatsApp",
+    "slug": "lino-alberto-pires-de-castro",
+    "sourceTemplate": "Template 1 — Landing Page institucional",
+    "sourceVersion": "1.2.0",
+    "siteUrl": "",
+    "year": 2026
+  },
+  "professional": {
+    "name": "Dr. Lino Alberto Pires de Castro",
+    "officeName": "Lino Alberto Pires de Castro | Advocacia",
+    "oab": "",
+    "area": "Direito Previdenciário",
+    "experienceYears": null,
+    "biography": "Sou advogado e atuo de forma individual, conduzindo cada caso do início ao fim, com atenção direta e sem terceirizar o atendimento. Minha trajetória inclui experiência no âmbito bancário, que me deu uma rotina de análise detalhada de contratos, documentos e valores. Levo esse mesmo cuidado para o Direito Previdenciário, onde detalhes da documentação e do histórico de contribuições podem ser relevantes para o pedido.",
+    "commitment": "Meu compromisso é oferecer um atendimento próximo, claro e honesto, para que você entenda seus direitos e tome decisões com segurança, sem promessas de resultado."
+  },
+  "contact": {
+    "whatsapp": "5561996272928",
+    "whatsappMessage": "Olá, Dr. Lino! Vim pelo site e gostaria de conversar sobre salário-maternidade.",
+    "instagram": "https://www.instagram.com/linocastro.adv/",
+    "instagramLabel": "@linocastro.adv"
+  },
+  "location": {
+    "city": "",
+    "regions": "Atendimento inicial pelo WhatsApp. A abrangência territorial será informada pelo advogado.",
+    "address": "",
+    "hours": ""
+  },
+  "theme": {
+    "primary": "#c8a45d",
+    "secondary": "#111111",
+    "style": "Institucional"
+  },
+  "hero": {
+    "title": "Salário-maternidade com orientação clara.",
+    "description": "Está grávida, teve um filho ou adotou? Entenda como funciona o salário-maternidade e converse diretamente com um advogado para uma análise individual da sua situação.",
+    "cta": "Falar agora com o advogado"
+  },
+  "services": [
+    {
+      "title": "Análise do direito ao benefício",
+      "description": "Avaliação da categoria previdenciária, da qualidade de segurada, das contribuições e dos documentos disponíveis.",
+      "label": "Cada história previdenciária é única"
+    },
+    {
+      "title": "Orientação para o pedido",
+      "description": "Informação clara sobre os requisitos e os documentos relacionados ao pedido de salário-maternidade junto ao INSS.",
+      "label": "Próximos passos com clareza"
+    },
+    {
+      "title": "Acompanhamento e recursos",
+      "description": "Acompanhamento do pedido e, quando cabível, avaliação das medidas administrativas ou judiciais após uma negativa.",
+      "label": "Atuação conforme o caso"
+    }
+  ],
+  "signs": [
+    "Você trabalha com carteira assinada, é MEI, autônoma ou contribuinte individual.",
+    "Está desempregada e quer saber se ainda mantém a qualidade de segurada.",
+    "Trabalha na atividade rural ou como pescadora artesanal.",
+    "O INSS negou o pedido e você quer entender os motivos e os caminhos possíveis."
+  ],
+  "steps": [
+    {
+      "title": "Conversa inicial",
+      "description": "Conte sua situação pelo WhatsApp e receba orientação sobre os documentos que podem ajudar na análise."
+    },
+    {
+      "title": "Análise individual",
+      "description": "São considerados seu histórico de contribuições, sua categoria e os documentos disponíveis."
+    },
+    {
+      "title": "Orientação clara",
+      "description": "Você entende as possibilidades reais, os requisitos e o que pode ser feito no seu caso."
+    },
+    {
+      "title": "Acompanhamento",
+      "description": "Quando houver contratação, o pedido é acompanhado e as próximas etapas são explicadas com transparência."
+    }
+  ],
+  "audiences": [
+    {
+      "title": "Trabalhadoras CLT",
+      "description": "Orientação sobre o benefício e os documentos conforme o vínculo de trabalho."
+    },
+    {
+      "title": "MEI e autônomas",
+      "description": "Análise das contribuições e dos requisitos aplicáveis a cada categoria."
+    },
+    {
+      "title": "Desempregadas",
+      "description": "Verificação da qualidade de segurada e do período de graça conforme o histórico."
+    },
+    {
+      "title": "Trabalhadoras rurais",
+      "description": "Orientação sobre a comprovação da atividade e a documentação pertinente."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Quem pode ter direito ao salário-maternidade?",
+      "answer": "Empregadas, trabalhadoras domésticas, MEI, contribuintes individuais, seguradas facultativas, algumas mulheres desempregadas que mantêm a qualidade de segurada e trabalhadoras rurais podem ter direito. Mães e pais por adoção ou guarda judicial também podem se enquadrar. Os requisitos dependem da categoria e da situação individual."
+    },
+    {
+      "question": "Estou desempregada. Posso receber o benefício?",
+      "answer": "Pode ser possível se você ainda mantiver a qualidade de segurada do INSS, inclusive durante o chamado período de graça. O prazo depende do histórico previdenciário, então é necessário analisar as datas e contribuições do caso."
+    },
+    {
+      "question": "MEI tem direito ao salário-maternidade?",
+      "answer": "A pessoa MEI pode ter direito quando cumpre os requisitos previdenciários aplicáveis. É importante verificar as contribuições, os pagamentos e a situação específica antes de fazer o pedido."
+    },
+    {
+      "question": "Trabalhadora rural pode receber salário-maternidade?",
+      "answer": "A trabalhadora rural pode se enquadrar como segurada especial, desde que comprove a atividade rural pelo período e pelos meios exigidos. A documentação necessária pode ser diferente das demais categorias."
+    },
+    {
+      "question": "Por quanto tempo o benefício é pago?",
+      "answer": "Em regra, o salário-maternidade é pago por 120 dias. A aplicação das regras pode variar conforme a situação, inclusive em casos de adoção ou guarda judicial."
+    },
+    {
+      "question": "Meu filho já nasceu. Ainda posso pedir?",
+      "answer": "Em regra, há prazo para requerer o benefício, mas a contagem depende da situação. Uma análise individual ajuda a verificar datas, documentos e possíveis prazos aplicáveis."
+    },
+    {
+      "question": "O INSS negou meu pedido. O que posso fazer?",
+      "answer": "A negativa pode ser analisada para entender o motivo e verificar se há possibilidade de recurso administrativo ou medida judicial. Os caminhos dependem dos documentos e dos fundamentos da decisão."
+    },
+    {
+      "question": "É garantido que vou receber o benefício?",
+      "answer": "Não há garantia de resultado. Cada situação depende dos requisitos, documentos e análise do INSS ou do Judiciário. O compromisso é com uma avaliação honesta e orientação clara sobre as possibilidades."
+    }
+  ],
+  "seo": {
+    "title": "Salário-maternidade | Dr. Lino Alberto Pires de Castro",
+    "description": "Orientação jurídica sobre salário-maternidade para mães CLT, MEI, autônomas, desempregadas e trabalhadoras rurais. Atendimento direto pelo WhatsApp."
+  },
+  "approval": {
+    "approved": false,
+    "readyToPublish": false
+  },
+  "pending": [
+    "Informar número da OAB e UF antes da publicação.",
+    "Informar o domínio oficial para configurar canonical, Open Graph, sitemap e indexação.",
+    "Confirmar a abrangência territorial e se há atendimento presencial.",
+    "Revisar o conteúdo jurídico final antes da publicação."
+  ]
+}

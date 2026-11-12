@@ -1,0 +1,11 @@
+{
+  "name": "Template 1",
+  "version": "1.2.0",
+  "direction": "Institucional, sóbrio e corporativo",
+  "recommendedFor": "Escritórios com apresentação institucional e possibilidade de expansão",
+  "defaultTheme": {
+    "primary": "#b28a4b",
+    "secondary": "#102236"
+  },
+  "features": ["hero", "services", "profile", "faq", "contact", "location"]
+}

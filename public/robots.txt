@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Prévia não indexável: domínio, OAB e aprovação pendentes.
