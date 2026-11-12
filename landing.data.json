@@ -1,18 +1,18 @@
 {
   "project": {
-    "name": "Lino Alberto Pires de Castro",
-    "displayName": "Lino Alberto Pires de Castro | Advocacia",
+    "name": "Lino Castro",
+    "displayName": "Lino Castro | Advocacia",
     "conversionAction": "WhatsApp",
-    "slug": "lino-alberto-pires-de-castro",
+    "slug": "lino-castro",
     "sourceTemplate": "Template 1 — Landing Page institucional",
     "sourceVersion": "1.2.0",
     "siteUrl": "",
     "year": 2026
   },
   "professional": {
-    "name": "Dr. Lino Alberto Pires de Castro",
-    "officeName": "Lino Alberto Pires de Castro | Advocacia",
-    "oab": "",
+    "name": "Dr. Lino Castro",
+    "officeName": "Lino Castro | Advocacia",
+    "oab": "OAB/DF 26.244",
     "area": "Direito Previdenciário",
     "experienceYears": null,
     "biography": "Sou advogado e atuo de forma individual, conduzindo cada caso do início ao fim, com atenção direta e sem terceirizar o atendimento. Minha trajetória inclui experiência no âmbito bancário, que me deu uma rotina de análise detalhada de contratos, documentos e valores. Levo esse mesmo cuidado para o Direito Previdenciário, onde detalhes da documentação e do histórico de contribuições podem ser relevantes para o pedido.",
@@ -134,7 +134,7 @@
     }
   ],
   "seo": {
-    "title": "Salário-maternidade | Dr. Lino Alberto Pires de Castro",
+    "title": "Salário-maternidade | Dr. Lino Castro",
     "description": "Orientação jurídica sobre salário-maternidade para mães CLT, MEI, autônomas, desempregadas e trabalhadoras rurais. Atendimento direto pelo WhatsApp."
   },
   "approval": {
@@ -142,7 +142,6 @@
     "readyToPublish": false
   },
   "pending": [
-    "Informar número da OAB e UF antes da publicação.",
     "Informar o domínio oficial para configurar canonical, Open Graph, sitemap e indexação.",
     "Confirmar a abrangência territorial e se há atendimento presencial.",
     "Revisar o conteúdo jurídico final antes da publicação."

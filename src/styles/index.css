@@ -223,3 +223,11 @@
 
 /* Movimento removido: estados visuais imediatos, sem transições. */
 *,*::before,*::after{animation:none!important;transition:none!important}html{scroll-behavior:auto!important}.light-button:hover,.service-cards article:hover,.floating-whatsapp:hover,.faq-card:hover,.audience-grid article:hover,.faq-card summary:hover .faq-toggle,.faq-card[open] .faq-toggle{transform:none!important}.faq-card[open] .faq-toggle{font-size:0}.faq-card[open] .faq-toggle::before{content:"−";font-size:20px}
+
+/* Identidade e fotografias fornecidas pelo escritório. */
+.brand-logo{width:112px;height:auto;object-fit:contain;flex-shrink:0}
+.footer-logo .brand-logo{width:200px}
+.about-visual img{height:auto;aspect-ratio:1;object-fit:cover;object-position:center top}
+.audience-photo{height:auto;aspect-ratio:2/3;object-fit:contain;object-position:center;filter:none;max-width:400px;justify-self:center}
+@media(max-width:760px){.audience-photo{width:min(100%,360px)}}
+@media(max-width:620px){.brand-logo{width:94px}.footer-logo .brand-logo{width:180px}}

@@ -68,11 +68,11 @@ ${metaUrl("twitter:title", data.seo.title)}${metaUrl("twitter:description", data
 await writeFile("index.html", html);
 await writeFile("public/robots.txt", ready
   ? `User-agent: *\nAllow: /\nSitemap: ${siteUrl}/sitemap.xml\n`
-  : "User-agent: *\nAllow: /\n# Prévia não indexável: domínio, OAB e aprovação pendentes.\n");
+  : "User-agent: *\nAllow: /\n# Prévia não indexável: configuração de publicação pendente.\n");
 await writeFile("public/sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${ready ? `<url><loc>${siteUrl}/</loc></url>` : ""}</urlset>\n`);
 await writeFile("public/site.webmanifest", JSON.stringify({
   name: data.project.displayName,
-  short_name: "Lino Alberto",
+  short_name: data.project.name,
   lang: "pt-BR",
   start_url: "./",
   display: "browser",
@@ -80,4 +80,4 @@ await writeFile("public/site.webmanifest", JSON.stringify({
   theme_color: data.theme.secondary,
   icons: [{ src: "./assets/favicon.svg", sizes: "any", type: "image/svg+xml" }],
 }));
-console.log(ready ? "SEO preparado para publicação." : "Prévia com noindex: domínio, OAB e aprovação pendentes.");
+console.log(ready ? "SEO preparado para publicação." : "Prévia com noindex: configuração de publicação pendente.");

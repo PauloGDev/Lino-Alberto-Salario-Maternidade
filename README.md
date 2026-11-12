@@ -21,4 +21,4 @@ npm run build
 ```
 
 Este template contém somente a rota pública da Landing Page. Login, conta, catálogo e painel administrativo não fazem parte da base.
-# Lino-Alberto-Salario-Maternidade
+# Lino-Castro-Salario-Maternidade

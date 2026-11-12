@@ -4,7 +4,7 @@
 
 - Tema principal: orientação jurídica sobre salário-maternidade.
 - Público: trabalhadoras CLT, domésticas, MEI, autônomas, facultativas, mulheres desempregadas com possível manutenção da qualidade de segurada e trabalhadoras rurais; também há referência a adoção e guarda judicial.
-- Título: `Salário-maternidade | Dr. Lino Alberto Pires de Castro`.
+- Título: `Salário-maternidade | Dr. Lino Castro`.
 - Não foi informada cidade ou região de atuação. O site não afirma atendimento nacional ou local.
 
 ## Implementado
@@ -14,11 +14,11 @@
 - Dados estruturados `WebSite`, `LegalService`, `Person` e `FAQPage`, limitados aos dados fornecidos.
 - Imagem social 1200 × 630, favicon, manifesto, robots.txt e sitemap.xml.
 - WhatsApp e Instagram fornecidos no briefing.
-- Prévia configurada com `noindex` enquanto não houver domínio, OAB e aprovação final. Canonical, URL de compartilhamento e sitemap permanecem sem URLs inventadas até o domínio ser confirmado.
+- Prévia configurada com `noindex` enquanto não houver domínio e aprovação final. Canonical, URL de compartilhamento e sitemap permanecem sem URLs inventadas até o domínio ser confirmado.
 
 ## Pendências antes da publicação
 
-- Confirmar número e UF da OAB do advogado.
+- OAB/DF 26.244 informada e aplicada ao perfil, rodapé e dados estruturados.
 - Informar o domínio oficial e então atualizar `project.siteUrl` em `landing.data.json`.
 - Confirmar a abrangência territorial e eventual atendimento presencial.
 - Revisar e aprovar o conteúdo jurídico e visual.
